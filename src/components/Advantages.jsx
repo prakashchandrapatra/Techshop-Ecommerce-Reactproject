@@ -1,6 +1,6 @@
 import React from 'react'
 import servicesData from '../Data/ServiceData'
-import './style.css';
+// import './style.css';
 
 const Advantages = () => {
   return (
